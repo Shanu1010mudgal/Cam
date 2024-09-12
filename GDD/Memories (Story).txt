@@ -1,0 +1,34 @@
+1) Player starts at APDI giving his final test to obtain a detectives licence.
+	-Here is where the tutorial is going to be.
+	
+2) After the tutorial players gonna get his first case, just a missing person last seen near a abandoned mansion. 
+	-This is gonna be a cut-scene OR build a short office in which shawn(in-game character name) is sitting. And then the letter is delivered to him.
+	
+3) Shawn goes to the mansion.
+	-Shawn is standing in the front yard of the mansion.
+	
+4) After entering shawn feels unusual, more like feeling the presense of some paranormal activities.(Ex - Main door vanish/locked)
+	-Player goes inside the mansion and can explore the mansion(some places are locked). While exploring player sees some paranormal activities.
+
+5) Soon shawn discovers a dead body rotting, explore more and finds another dead body but this one is only bones.
+	-Player keeps exploring the mansion in a set path. First seeing the rotting body then the body with only bones remaining.
+
+6) While he was continuing his exploration he accidentally steps on a dead body that was mostly hidden.
+	-While exploring player steps on a dead body(accidentally, can be scary) OR he gets a interact prompt when near the specific dead body.
+
+7) Shawn wakes up but he feels uneasy. The environment there is different. He looks around and finds himself in a different part of the mansion.
+	-Wake up animation. Is in a different part of the mansion. 
+
+8) Shawn realizes that he is somehow in the last memories of the dead person that he stepped on.
+	-There are some clues in the area that indicates that the dead person is alive and its shawn now.
+
+9) Shawn unlocks the door explores a bit and suddenly he realizes he is in the main lobby of the mansion. But as he realizes that he is killed by a black figure.
+	-Player gets a key to the door. After opening he have a set path to take that brings him back to the lobby where he died. Revealing the key in his pocket.
+
+10) Shawn realizes he can somehow go into the memories of the dead person. He also know about a another keys whereabouts and collects it.
+	-Player will not have the option to collect the key before. But will get the prompt after he have completed the memory.
+
+11) Shawn now enters the previously locked door. But this time the room looks a bit different.
+	-Player uses the key to enter the locked room and sees differences in the room. Ex - a new painting, missing flower pot, etc.
+
+12) While exploring shawn find a note(first) giving information about a joystick puzzel.

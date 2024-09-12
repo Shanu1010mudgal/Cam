@@ -1,0 +1,4 @@
+repository "Memories@AthuMane@cloud"
+  path "/"
+    br "/main"
+    co "/main"

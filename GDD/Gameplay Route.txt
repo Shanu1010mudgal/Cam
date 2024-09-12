@@ -1,0 +1,16 @@
+Enters the mansion 
+There is a shoe(any belonging of the person) right before the lobby exit door which is locked
+Object is to open the lobby exit door
+There's a key in lobby exit door's key hole 
+The key open another door
+Open the playing room's door with the key 
+Explore find a note
+Goes upstairs in study room
+Study room exit door is locked
+Goes through the other door that leads to hallway
+There's a broken floor be careful
+Bunch of numbers written on the hallway walls 
+Solves the puzzel using the note found before and open the door to kitchen
+At the end of the kitchen there;s a dead body
+Should escape but the main door is missing
+

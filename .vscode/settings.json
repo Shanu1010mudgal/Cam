@@ -1,0 +1,10 @@
+{
+    "dotnet.preferCSharpExtension": true,
+    "dotnet.defaultSolution": "Memories.sln",
+    "files.autoSave": "onFocusChange",
+    "files.exclude": {
+        "**/.meta": true
+    },
+    "explorer.excludeGitIgnore": true,
+    "explorer.fileNesting.enabled": false
+}

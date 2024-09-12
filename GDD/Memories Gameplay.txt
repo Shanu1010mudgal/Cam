@@ -1,0 +1,102 @@
+**) Main objective -
+		6 dead person whose memories player can access. Through those memories player have to collect 5 different parts that combine into a powerfull weapon that was crafter to kill the main demon. 
+		One of those memories is introduction to memories. There will be other dead bodies but with no memories.
+		Through these memories the player can also know few clues using which he can progress in game. 
+		Ex - getting the password to the combination lock, Gaining knowledge about the keys whereabouts, etc.
+   
+**) Memories objective -		
+		1) In the first memory he get to know he have this ability that lets him access the memories of the dead and a key to a locked door. 
+		2) 
+	
+**) Puzzles -
+	1) Joystick puzzle (2 notes to solve this puzzle). 
+		In this puzzle the player have to move the joystick in the correct order to unlock. He will get 2 different notes as hints. 
+		The first one will tell him in which direction the joystick should be moved. Ex - up, down, down, left, etc.
+		Second note that he will get later on in the game will say the patter should be done in reverse order i.e., from right to left.
+	2) 6 Digit combination lock (7 notes to solve this puzzle)																											.....Longest puzzle can use for final room.
+		Each dead person's memory gives a note containing one of the digit that goes into the 6 digit combination lock. The digits are drawn in different colors.
+		Last note will inform about the order if the colors.
+	3) 4 Digit combination locj (digits written on wall and 1 note)
+		There will be digits written on the walls near that puzzel, Below each digit there will be dots.
+		The note will describe how to enter the digits based on the dots.
+	
+**) Hiding Mechanics - 
+	Player can hide inside closet/hiding spots which will grant him immunity to everything.(But not to long)
+	Player will have super reduced vision of outside.(Camera super zoomed in).
+	Player can peek and look outside but will have short vision(Not full vision)(Camera zoomed in).
+	Player will have to peak left or right to give respective direction vision.
+	If player is spotted by any monsters the monster can attack the player, if player continues to peek.(Cannot attack is player stops peeking)
+
+(Note - Weapons have infinite durability)
+**) Starting weapons -
+	1) Pistol Glock 17 
+		ammo rare. Come with 1 round in chamber, 17 rounds in mag
+	2) Boot knife.
+**) Other weapons -
+	1) Double barrel shotgun.
+		Ammo extremely rare. When found have 2 shells in chamber
+	2) Slingshot
+		Ammo Abundant. When found have some stones (2-3) nearby. Player can carry maximum of 10 stones.
+
+**) Enemies -
+	1) Wires 
+		Looks - Escape the backrooms 1st level bacteria.
+		Behaviour - Will be seen hanging from the ceiling looking like wires. Will make clicking sounds(last of us clicker). 
+					If player is below and does not shine flashlight on him he will jump down and attack once then run away. Player can melee the monster to negate damage but will have to time it.
+		How to kill - Player will have to shoot him. After that the monster becomes fully aggressive and will not be scared of flashlights. 
+					  He will start sprinting towards player and attack him until player or monster dies.
+		How to avoid - Player will have to shine the flashlight at the monster when below him after which the monster will run away.
+	2) Growler
+		Looks - Last of us bloater but without spores.
+		Behaviors - Roaming in the corridors, slower than player sprinting. Short sighted, attracted by loud noises(Ex - breaking vase, etc. Not player footsteps). Will start growling after spotting player
+					Have a grab attack, which player will have to escape by pressing button combinations shown.
+		How to kill - Can only be damaged by heavy weapons like shotgun. Gets stunned after being electrocuted. 
+		How to avoid - Player can hide from the monster in closets.
+	3) Sprinter 
+		Looks - Normal human like creature but without skin.(Vita carnis mimic)
+		Behaviours - Will be faster than player sprinting. Deaf, but great eye sight. Cannot see in dark.(Cannot aggro at all in dark)
+					After spotting the player the sprinter will hit and run away and repeated.(Uses hit and run tactics)
+		How to kill - Can sneak attack from behind to kill. 
+					  Can shoot or use melee weapons.(Melee weapons are hard to time)
+		How to avoid - Don't get seen by him.
+	4) Bats
+		Looks - Like a bat.
+		Behaviour - After bats jump scare a single bat will remain and fly around the player attacking him occasionally. 
+					The attacks will be direct flight on the player.
+		How to kill - When the bat is attacking the player can melee him(Perfect timing needed). 
+					  Player can also shoot the bat with a gun killing him. Or shoot it with a slingshot to make him fall so player can go and melee him(Time restriction to melee bat).
+		How to avoid - Unavoidable. But when hiding in a closet bat will not attack.
+	5) Banshee (female)
+		Looks - Full black with bright eyes.
+		Behaviors - Will fades in behind the player if the player spends a lot of time hiding. After fully visible kills the player.
+		How to kill - Unkillable
+		How to avoid - Don't let her be fully visible, get out of hiding place.(Don't be a coward)
+	
+**) Jump scares -
+	1) Paintings
+		Will look in the direction of player. While turning there neck they make creepy sound.
+	2) Bats
+		Loud sounds in a group.
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+**) Easter eggs - 
+	1) I should have decided to become a doctor instead , I would have become a good doctor.
+	2) After completion will get access to cheats. Called "Amruskar's hacks".
